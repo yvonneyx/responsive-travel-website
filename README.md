@@ -1,7 +1,3 @@
-# responsive-travel-website
-Responsive Travel Website Design Using HTML CSS and JavaScript
-
-
 # Responsive Travel Website 🌊
 
 Here just copied project learnt from youtube. The goal is to get familar with HTML/CSS/JS. Watch the whole tutorial on [Youtube](https://www.youtube.com/watch?v=YzRDHxbw1RU&feature=youtu.be).
