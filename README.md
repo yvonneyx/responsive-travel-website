@@ -26,6 +26,9 @@ HSL color mode
 https://www.w3schools.com/colors/colors_hsl.asp
 Remix Icons
 https://github.com/Remix-Design/RemixIcon
+Scroll Reveal Animation
+https://scrollrevealjs.org/
+https://github.com/jlmakes/scrollreveal
 
 - 📷 Images
 https://www.pexels.com/
