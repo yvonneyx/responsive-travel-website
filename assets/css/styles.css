@@ -142,12 +142,8 @@ ul {
 
 a {
   text-decoration: none;
-  font-weight: var(--font-medium);
 }
 
-p {
-  font-weight: var(--font-medium);
-}
 
 img,
 video {
